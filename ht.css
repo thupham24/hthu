@@ -1,0 +1,6 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    border-bottom: 10px solid rgb(238, 148, 31);
+}
